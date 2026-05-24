@@ -265,9 +265,12 @@
 			<Catalog>Склады</Catalog>
 			<Document>ЗаказКлиента</Document>
 			<Document>ПоступлениеТоваров</Document>
+			<Document>РеализацияТоваров</Document>
 			<Report>ОстаткиТоваров</Report>
+			<Report>СвободныеОстатки</Report>
 			<InformationRegister>ЦеныНоменклатуры</InformationRegister>
 			<AccumulationRegister>ОстаткиТоваров</AccumulationRegister>
+			<AccumulationRegister>Резервы</AccumulationRegister>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
